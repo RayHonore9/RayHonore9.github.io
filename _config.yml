@@ -1,11 +1,11 @@
 # Site settings
 author: Raynald Honore
-title: 
+title: My Adventure into Coding
 header-img: img/home-bg.png
 email: raynaldhonore@gmail.com
 copyright_name: Raynald Honore
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Think like a coder 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  RayHonore9
